@@ -1,2 +1,0 @@
-# React Component - Styling(inline)
-
